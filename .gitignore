@@ -23,7 +23,7 @@
     <description lang="pt">Sonora Terra é um serviço online para ouvir mais de 20 Milhões de músicas e rádios de graça. Com uma conta gratuita você pode criar playlist, músicas marcar como favoritos e download de músicas (serviço premium). Com este plugin, você pode ouvir a biblioteca sonora, sem anúncios. Seu somente para porpouses educacionais.</description>
   </extension>
 </addon>
-<addon id="repository.wiiego" name="angeljrmaster" version="1.0.1" provider-name="wiiego">
+<addon id="repository.angeljrmaster" name="angeljrmaster" version="1.0.1" provider-name="angeljrmaster">
 	<extension point="xbmc.addon.repository" name="angeljrmaster">
 		<info compressed="false">https://github.com/angeljrmaster/angeljrmaster/raw/master/addons.xml</info>
 		<checksum>https://github.com/angeljrmaster/angeljrmaster/raw/master/addons.xml.md5</checksum>
@@ -31,7 +31,7 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<summary>Install angeljrmaster Addons</summary>
-		<description>Download and install multimedia addons by Wiiego</description>
+		<description>Download and install multimedia addons by angeljrmaster</description>
 		<platform>all</platform>
 	</extension>
 </addon>
